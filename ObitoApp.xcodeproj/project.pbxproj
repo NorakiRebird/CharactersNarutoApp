@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		5AD7A8E32D6CFB820041F2B3 /* ObitoApp */ = {
+		5ABF78352D6F231D00FCFAB9 /* ObitoApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = ObitoApp;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		5AD7A8D82D6CFB820041F2B3 = {
 			isa = PBXGroup;
 			children = (
-				5AD7A8E32D6CFB820041F2B3 /* ObitoApp */,
+				5ABF78352D6F231D00FCFAB9 /* ObitoApp */,
 				5AD7A8E22D6CFB820041F2B3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				5AD7A8E32D6CFB820041F2B3 /* ObitoApp */,
+				5ABF78352D6F231D00FCFAB9 /* ObitoApp */,
 			);
 			name = ObitoApp;
 			packageProductDependencies = (
